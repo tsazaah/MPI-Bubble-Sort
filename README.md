@@ -115,7 +115,7 @@ Panduan ini menyediakan petunjuk langkah demi langkah untuk membuat master dan s
 ## Menjalankan Kode Python - Pengurutan Gelembung
 1. Buat sebuah berkas Python baru:
     ``` bash
-    sentuh /home/mpiusr/fix/bubble4.py
+    touch /home/mpiusr/fix/bubble4.py
     ```
 2. Arahkan ke direktori tersebut dan edit file Python:
     ```bash
